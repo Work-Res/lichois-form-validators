@@ -1,0 +1,2 @@
+Django
+-e git@github.com:Work-Res/lichois-constants.git@develop#egg=lichois_constants
