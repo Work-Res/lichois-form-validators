@@ -1,4 +1,4 @@
-from form_validator import FormValidator
+from ..form_validator import FormValidator
 from django.core.exceptions import ValidationError
 
 class WorkResVariationPermitFormValidator(FormValidator):
