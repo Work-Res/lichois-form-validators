@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'lichois_form_validators.apps.AppConfig',
+
 ]
 
 MIDDLEWARE = [
